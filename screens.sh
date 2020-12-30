@@ -1,1 +1,2 @@
+#!/bin/sh
 java -jar /home/h264/Desktop/Shots.jar
